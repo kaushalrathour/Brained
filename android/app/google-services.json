@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "717223895231",
+    "project_id": "brained-a25d6",
+    "storage_bucket": "brained-a25d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717223895231:android:21521fe1df96a76bc7660a",
+        "android_client_info": {
+          "package_name": "com.brained.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717223895231-7gn0jo91r5usa3kjguo85sugktctqg3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brained.task",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "717223895231-7uvhttkd1jh90lvkq00n05sh62gin7j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9aKK-bc42CPcQf73dQMtxme1qog-5zkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717223895231-7uvhttkd1jh90lvkq00n05sh62gin7j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
